@@ -1,0 +1,4 @@
+I am learning Python.
+Java is a programming language.
+Python is easy to learn.
+I like programming.
